@@ -1,4 +1,4 @@
-# Hypothesis Testing: Paired T-Test & Other T-Tests Analysis
+## Paired T-Test & Other T-Tests Analysis
 
 This project demonstrates hypothesis testing using various **t-tests** to analyze whether a new drug significantly reduces blood pressure. It uses measurement data before and after treatment and evaluates the statistical significance of the observed changes.
 
@@ -30,7 +30,7 @@ A **boxplot** is included in the notebook to visually compare blood pressure val
 
 ```python
 plt.boxplot([before_treatment, after_treatment], labels=['Before', 'After'])
-
+```
 
 
 
